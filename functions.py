@@ -49,7 +49,6 @@ class Functions:
 
     def find_emp_function(self):
         print("Эмпирическая функция:")
-        # self.n = len(self.count_set)
         self.n = len(self.data)
         x = list(self.count_set.keys())
         y = 0
